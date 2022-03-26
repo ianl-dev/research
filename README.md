@@ -1,2 +1,2 @@
 # Research
-![plot](./bssp.png)
+![plot](./bssp_.png)
